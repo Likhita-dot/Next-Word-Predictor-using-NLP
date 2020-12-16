@@ -1,0 +1,10 @@
+
+### lastest versions Preferable 
+
+Python
+Tensorflow 
+Keras
+Numpy
+matplotlib
+string
+pickle
